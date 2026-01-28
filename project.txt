@@ -1,0 +1,6 @@
+The team project tries to collect historical data of price
+movements of some commodities. We are currently interested
+to know more about the change of metal prices. Collect the data
+into a single place and then to be analized.
+
+
