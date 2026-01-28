@@ -6,3 +6,8 @@ This is the file project that I am creating about my hobbies where I list them:
 5. Jazz Music
 6. Gravel Cycling
 
+Adding more hobbies (changes)
+7. 3D printing
+8. CNC DYI Projects
+9. Running
+
